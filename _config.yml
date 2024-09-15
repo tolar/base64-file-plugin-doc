@@ -7,7 +7,7 @@ theme: "minimal-mistakes-jekyll" # Specify the theme
 
 # GitHub Pages settings
 repository: tolar/base64-file-plugin-doc # replace with your repo name
-remote_theme: "mmistakes/minimal-mistakes" # Use the theme directly from GitHub
+remote_theme: "mmistakes/minimal-mistakes@4.26.2" # Use the theme directly from GitHub
 
 # Plugins
 plugins:
