@@ -1,18 +1,53 @@
-theme: "just-the-docs"
+# Site settings
+title: "Base64 File Plugin Documentation"
+description: "Official documentation for the Base64 File plugin for IntelliJ IDEA."
+baseurl: "" # if deploying to a subdirectory
+url: "https://tolar.github.io" # change to your GitHub Pages URL or custom domain
+theme: "minimal-mistakes-jekyll" # Specify the theme
 
-# Sidebar navigation
-just_the_docs:
-  # Enable the sidebar with navigation
-  show_sidebar: true
-  # Site title and description
-  title: "Base64 File Plugin Documentation"
-  description: "Documentation for the Base64 File plugin for IntelliJ IDEA."
-  logo: "/assets/logo.png"
-  # Set up sidebar links
-  navigation_structure:
-    - title: "Introduction"
-      url: "/docs/introduction/"
-    - title: "Installation"
-      url: "/docs/installation/"
-    - title: "Usage"
-      url: "/docs/usage/"
+# GitHub Pages settings
+repository: tolar/base64-file-plugin-doc # replace with your repo name
+remote_theme: "mmistakes/minimal-mistakes" # Use the theme directly from GitHub
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Enable table of contents (optional for page-level navigation)
+toc: true
+toc_label: "Table of Contents"
+toc_sticky: true
+
+# Site author and copyright information
+author:
+  name: "Your Name"
+  avatar: "/assets/images/avatar.png"
+  bio: "Developer of the Base64 File Plugin."
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/tolar"
+
+# Sidebar settings
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      author_profile: true
+      sidebar:
+        nav: "docs" # Enable the sidebar with a custom navigation called 'docs'
+
+# Define your navigation menu for the sidebar
+collections:
+  docs:
+    output: true
+    permalink: /:path/
+
+# Navigation sidebar for documentation
+navigation:
+  - title: "Documentation"
+    nav: docs
