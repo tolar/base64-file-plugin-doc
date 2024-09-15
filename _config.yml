@@ -3,7 +3,7 @@ title: "Base64 File Plugin Documentation"
 description: "Official documentation for the Base64 File plugin for IntelliJ IDEA."
 baseurl: "" # if deploying to a subdirectory
 url: "https://tolar.github.io" # change to your GitHub Pages URL or custom domain
-theme: "minimal-mistakes-jekyll" # Specify the theme
+#theme: "minimal-mistakes-jekyll" # Specify the theme
 
 # GitHub Pages settings
 repository: tolar/base64-file-plugin-doc # replace with your repo name
