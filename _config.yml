@@ -21,6 +21,10 @@ collections:
     output: true
     sort_by: weight
     permalink: /docs/:title/
+  use_cases:
+    output: true
+    sort_by: weight
+    permalink: /use_cases/:title/
 
 defaults:
   - scope:
@@ -32,6 +36,13 @@ defaults:
       toc_sticky: true
       sidebar:
         nav: "doc-nav"
+  - scope:
+      path: ""
+      type: use_cases
+    values:
+      toc: false
+      sidebar:
+        nav: "use-cases-nav"
 
 
 

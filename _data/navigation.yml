@@ -1,23 +1,27 @@
 main:
   - title: "Home"
     url: /
-  - title: "Features"
-    url: /features
+  - title: "Use Cases"
+    url: /use_cases/embedded_image/
   - title: "Documentation"
-    url: /docs/overview/
+    url: /docs/install/
 
 doc-nav:
-  - title: "Get Started"
-    children:
-      - title: "Overview"
-        url: /docs/overview/
+  - title: "Install"
+    url: /docs/install/
+  - title: "Overview"
+    url: /docs/overview/
   - title: "Editor"
-    children:
-      - title: "Encoding file"
-        url: /docs/encoding/
-      - title: "Decoding file"
-        url: /docs/decoding/
+    url: /docs/editor/
   - title: "Project Tree"
+    url: /docs/project_tree/
+
+use-cases-nav:
+  - title: "Embedded Image"
+    url: /use_cases/embedded_image/
+  - title: "Certificate"
+    url: /use_cases/certificate/
+
 
 
 

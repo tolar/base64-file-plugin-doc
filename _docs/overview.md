@@ -1,19 +1,13 @@
 ---
+title: Overview
 layout: single
 collection: docs
-weight: 1
+weight: 2
 ---
 
 Base64 File plugin supports work with Base64 encoded files in IntellijIDEA.
 
-### Install Plugin
-
-1. Launch your IntellijIDEA
-2. Choose <kbd>Preferences</kbd> &rarr; <kbd>Plugins</kbd> &rarr; <kbd>Marketplace</kbd>
-3. Enter "Base64 File" into the search input
-4. Click <kbd>Install</kbd> next to the "Base64 File"
-
-### Functionw Overview
+### Function Overview
 
 The plugin enriches IntellijIDEA with several actions in different parts of IDE. The plugin's actions are clearly
 recognisable as they always part of action group __`Base64 File`__.
@@ -51,7 +45,15 @@ visually displayed in the project tree.
 
 ![](/assets/images/screenshot/project_tree/project_tree_links.svg){: style="width: auto; height: auto;" }
 
+There is an action to encode and insert the selected file from the tree into the file currently open in editor at the caret position.
 
+![](/assets/images/screenshot/project_tree/action_encode_file_and_insert_at_caret.svg){: style="width: auto; height: auto;" }
+
+#### Main Menu
+
+There is an action for removing all links between the encoded files and its source files.
+
+![](/assets/images/screenshot/menu/action_remove_all.svg){: style="width: auto; height: auto;" }
 
 
 
