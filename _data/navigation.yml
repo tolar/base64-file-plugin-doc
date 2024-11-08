@@ -4,17 +4,21 @@ main:
   - title: "Use Cases"
     url: /use_cases/embedded_image/
   - title: "Documentation"
-    url: /docs/install/
+    url: /docs/01_install/
 
 doc-nav:
-  - title: "Install"
-    url: /docs/install/
-  - title: "Overview"
-    url: /docs/overview/
-  - title: "Editor"
-    url: /docs/editor/
-  - title: "Project Tree"
-    url: /docs/project_tree/
+  - title: "Get Started"
+    children:
+    - title: "Install"
+      url: /docs/01_install/
+    - title: "Overview"
+      url: /docs/02_overview/
+  - title: "Functions"
+    children:
+    - title: "Editor"
+      url: /docs/03_editor/
+    - title: "Project Tree"
+      url: /docs/04_project_tree/
 
 use-cases-nav:
   - title: "Embedded Image"
