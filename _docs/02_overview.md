@@ -20,7 +20,7 @@ The action group `Base64 File` is part of following menus:
 * Project tree popup menu
 * Main edit menu
 
-### Editor
+## Editor
 
 There is an action for inserting encoded file to file currently open in editor.
 
@@ -38,7 +38,7 @@ Encoded files are visually marked in the editor with highlighting, and a label d
 
 ![](/assets/images/screenshot/editor/encoded_file_visual_representation.svg){: style="width: auto; height: auto;" }
 
-### Project Tree
+## Project Tree
 
 The plugin automatically creates a link between the encoded file value and its source file. These links are also
 visually displayed in the project tree.
@@ -49,7 +49,7 @@ There is an action to encode and insert the selected file from the tree into the
 
 ![](/assets/images/screenshot/project_tree/action_encode_file_and_insert_at_caret.svg){: style="width: auto; height: auto;" }
 
-### Main Menu
+## Main Menu
 
 There is an action for removing all links between the encoded files and its source files.
 

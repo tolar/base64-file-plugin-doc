@@ -27,6 +27,7 @@ collections:
     sort_by: weight
     permalink: /use_cases/:title/
 
+
 defaults:
   - scope:
       path: ""

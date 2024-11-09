@@ -19,12 +19,17 @@ doc-nav:
       url: /docs/03_editor/
     - title: "Project Tree"
       url: /docs/04_project_tree/
+    - title: "Main Menu"
+      url: /docs/05_main_menu/
+
 
 use-cases-nav:
-  - title: "Embedded Image"
-    url: /use_cases/embedded_image/
-  - title: "Certificate"
-    url: /use_cases/certificate/
+  - title: "Use Cases"
+    children:
+    - title: "Embedded Image"
+      url: /use_cases/embedded_image/
+    - title: "Certificate"
+      url: /use_cases/certificate/
 
 
 
