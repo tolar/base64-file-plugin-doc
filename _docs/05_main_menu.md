@@ -10,7 +10,7 @@ weight: 5
 The user can remove all links between encoded values and their source files in the current project by invoking the
 corresponding action in the main menu.
 
-{% include figure popup=true image_path="assets/images/screenshot/menu/menu_overview_action.png" %}
+{% include figure popup=true image_path="/assets/images/screenshot/menu/menu_overview_action.png" %}
 
 ### Remove All Links Action
 

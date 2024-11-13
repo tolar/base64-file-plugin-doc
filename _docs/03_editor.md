@@ -10,7 +10,7 @@ weight: 3
 The user can insert a Base64 encoded file at the caret position by invoking the appropriate action from the context
 menu.
 
-{% include figure popup=true image_path="assets/images/screenshot/editor/editor_overview_insert_action.png" %}
+{% include figure popup=true image_path="/assets/images/screenshot/editor/editor_overview_insert_action.png" %}
 
 ### Insert Encoded File Action
 
@@ -26,14 +26,14 @@ encoded file.
 The relative file path of the encoded file is also displayed in the status bar below when the caret is placed within the
 encoded file.
 
-{% include figure popup=true image_path="assets/images/screenshot/editor/editor_overview_gui_elements.png" %}
+{% include figure popup=true image_path="/assets/images/screenshot/editor/editor_overview_gui_elements.png" %}
 
 ## Encoded File Manipulation
 
 When the user invokes the context menu with the caret at the encoded value, several actions for manipulating the encoded
 value are available.
 
-{% include figure popup=true image_path="assets/images/screenshot/editor/editor_overview_encoded_actions.png" %}
+{% include figure popup=true image_path="/assets/images/screenshot/editor/editor_overview_encoded_actions.png" %}
 
 ### Encoded File Actions
 
@@ -49,18 +49,18 @@ value are available.
 If the encoded file changes, its encoded value will be automatically updated. This change is communicated to the user
 via a notification panel at the top of the editor.
 
-{% include figure popup=true image_path="assets/images/screenshot/editor/editor_overview_notification.png" %}
+{% include figure popup=true image_path="/assets/images/screenshot/editor/editor_overview_notification.png" %}
 
 ## Decode Encoded File
 
 The user can decode the file by selecting its encoded value in the editor and triggering the appropriate action.
 
-{% include figure popup=true image_path="assets/images/screenshot/editor/editor_overview_decode_action.png" %}
+{% include figure popup=true image_path="/assets/images/screenshot/editor/editor_overview_decode_action.png" %}
 
 The user specifies the name of the file into which the selected encoded value will be decoded in the dialog that
 appears.
 
-{% include figure popup=true image_path="assets/images/screenshot/editor/editor_overview_decode_file_name.png" %}
+{% include figure popup=true image_path="/assets/images/screenshot/editor/editor_overview_decode_file_name.png" %}
 
 ### Decode File Action
 
