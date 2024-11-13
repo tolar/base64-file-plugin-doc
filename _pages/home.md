@@ -6,7 +6,10 @@ permalink: /
 
 A unique plugin for [IntelliJ IDEA](https://www.jetbrains.com/idea/) supporting work with Base64 encoded files in IDE
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BIsgD3AzSFc?si=QReDfbieEnb9f7JD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<video width="650" height="auto" controls preload="auto" autoplay="autoplay">
+  <source src="{{ site.baseurl }}/assets/videos/base64_file_plugin_overview.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <br/>
 
