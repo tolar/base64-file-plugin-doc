@@ -1,6 +1,7 @@
 title: Base64 File Plugin
 description: Documentation for Base64 File Plugin for IntellijIDEA
 url: "http://base64file.com" # Your website URL
+baseurl: "/base64-file-plugin-doc"
 author:
   name: Vaclav Tolar
 
