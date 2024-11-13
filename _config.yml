@@ -12,9 +12,12 @@ remote_theme: mmistakes/minimal-mistakes@4.26.2
 
 # Plugins
 plugins:
-  - jekyll-seo-tag
+  - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-gist
   - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 
 include: [ "_pages", "_docs" ]
 
