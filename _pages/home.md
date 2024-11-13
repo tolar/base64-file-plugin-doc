@@ -1,9 +1,8 @@
 ---
+title: Base64 File Plugin
 layout: single
 permalink: /
 ---
-
-# Base64 File Plugin
 
 A unique plugin for [IntelliJ IDEA](https://www.jetbrains.com/idea/) supporting work with Base64 encoded files in IDE
 
