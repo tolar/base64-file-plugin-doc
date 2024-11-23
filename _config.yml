@@ -1,7 +1,6 @@
 title: Base64 File Plugin
 description: Documentation for Base64 File Plugin for IntellijIDEA
 url: "https://base64file.com" # Your website URL
-#baseurl: "/base64-file-plugin-doc"
 baseurl: ""  # Set this to an empty string for custom domains
 author:
   name: Vaclav Tolar
@@ -51,6 +50,14 @@ defaults:
       toc: false
       sidebar:
         nav: "use-cases-nav"
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      show_date: true
 
 
 
