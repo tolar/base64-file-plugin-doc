@@ -38,6 +38,8 @@ Encoded files are visually marked in the editor with highlighting, and a label d
 
 ![]({{ site.baseurl }}/assets/images/screenshot/editor/encoded_file_visual_representation.svg){: style="width: auto; height: auto;" }
 
+Learn more about [Editor Functions](/docs/03_editor/)
+
 ## Project Tree
 
 The plugin automatically creates a link between the encoded file value and its source file. These links are also
@@ -49,11 +51,17 @@ There is an action to encode and insert the selected file from the tree into the
 
 ![]({{ site.baseurl }}/assets/images/screenshot/project_tree/action_encode_file_and_insert_at_caret.svg){: style="width: auto; height: auto;" }
 
+Learn more about [Project Tree Functions](/docs/04_project_tree/)
+
 ## Main Menu
 
 There is an action for removing all links between the encoded files and its source files.
 
 ![]({{ site.baseurl }}/assets/images/screenshot/menu/action_remove_all.svg){: style="width: auto; height: auto;" }
+
+Learn more about [Main Menu Functions](/docs/05_main_menu/)
+
+
 
 
 
