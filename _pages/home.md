@@ -13,11 +13,15 @@ A unique plugin for [IntelliJ IDEA](https://www.jetbrains.com/idea/) supporting 
 
 <br/>
 
-You can explore the plugin's functions in [Documentation](docs/02_overview/)
+## Documentation
 
-It is planned that the plugin will be available for download on the [Marketplace](https://plugins.jetbrains.com/) during the first quarter of 2025.
+Explore the plugin’s features and functions in our comprehensive [Documentation](docs/02_overview/).
 
-If you want to participate in beta testing, please email us at [info@base64file.com](mailto:info@base64file.com)
+## Availability
+
+The plugin is scheduled to be available for download on the [Marketplace](https://plugins.jetbrains.com/) in the first quarter of 2025.
+
+Want early access? Join our beta testing program by emailing us at [info@base64file.com](mailto:info@base64file.com).
 
 [//]: # (<a href="/docs/01_install/" class="btn btn--primary btn--large">Get started</a>)
 
