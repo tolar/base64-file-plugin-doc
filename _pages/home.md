@@ -18,7 +18,7 @@ A unique plugin for [IntelliJ IDEA](https://www.jetbrains.com/idea/) supporting 
 Explore the plugin’s features and functions in our comprehensive [Documentation](docs/02_overview/).
 
 ## Availability
-``
+
 The plugin is scheduled to be available for download on the [Marketplace](https://plugins.jetbrains.com/) in the first quarter of 2025.
 
 Want early access? Join our beta testing program by emailing us at [info@base64file.com](mailto:info@base64file.com).
