@@ -2,7 +2,7 @@
 title: Main Menu
 layout: single
 collection: docs
-weight: 5
+weight: 6
 ---
 
 ## Remove All Links

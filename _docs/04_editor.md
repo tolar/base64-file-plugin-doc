@@ -2,7 +2,7 @@
 title: Editor
 layout: single
 collection: docs
-weight: 3
+weight: 4
 ---
 
 ## Encode File

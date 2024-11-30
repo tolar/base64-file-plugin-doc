@@ -15,14 +15,16 @@ doc-nav:
       url: /docs/01_install/
     - title: "Overview"
       url: /docs/02_overview/
+    - title: "Changelog"
+      url: /docs/03_changelog/
   - title: "Functions"
     children:
     - title: "Editor"
-      url: /docs/03_editor/
+      url: /docs/04_editor/
     - title: "Project Tree"
-      url: /docs/04_project_tree/
+      url: /docs/05_project_tree/
     - title: "Main Menu"
-      url: /docs/05_main_menu/
+      url: /docs/06_main_menu/
 
 
 use-cases-nav:
