@@ -4,7 +4,7 @@ layout: single
 collection: docs
 toc: false
 weight: 3
-permalink: changelog
+permalink: /changelog
 ---
 
 ## Version 1.1.1 (Dec 14, 2024)

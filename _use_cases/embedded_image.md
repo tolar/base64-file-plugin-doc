@@ -3,7 +3,7 @@ title: Embedded Image
 layout: single
 collection: use_cases
 weight: 1
-permalink: embedded_image
+permalink: /embedded_image
 ---
 
 The following video demonstrates how the plugin effectively assists with embedding images in an HTML page.
