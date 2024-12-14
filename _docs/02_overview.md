@@ -3,6 +3,7 @@ title: Overview
 layout: single
 collection: docs
 weight: 2
+permalink: documentation
 ---
 
 Base64 File plugin supports work with Base64 encoded files in IntellijIDEA.

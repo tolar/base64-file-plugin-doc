@@ -3,6 +3,7 @@ title: Certificate
 layout: single
 collection: use_cases
 weight: 2
+permalink: certificate
 ---
 
 The plugin helps you work with certificate files within the IntelliJ IDEA IDE.

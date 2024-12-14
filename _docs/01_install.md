@@ -4,6 +4,7 @@ layout: single
 collection: docs
 toc: false
 weight: 1
+permalink: install
 ---
 
 1. Launch your IntellijIDEA

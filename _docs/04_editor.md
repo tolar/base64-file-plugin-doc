@@ -3,6 +3,7 @@ title: Editor
 layout: single
 collection: docs
 weight: 4
+permalink: editor
 ---
 
 ## Encode File

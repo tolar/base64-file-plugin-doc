@@ -4,36 +4,36 @@ main:
   - title: "News"
     url: /news/
   - title: "Use Cases"
-    url: /use_cases/embedded_image/
+    url: /embedded_image/
   - title: "Documentation"
-    url: /docs/01_install/
+    url: /documentation/
 
 doc-nav:
   - title: "Get Started"
     children:
     - title: "Install"
-      url: /docs/01_install/
+      url: /install/
     - title: "Overview"
-      url: /docs/02_overview/
+      url: /documentation/
     - title: "Changelog"
-      url: /docs/03_changelog/
+      url: /changelog/
   - title: "Functions"
     children:
     - title: "Editor"
-      url: /docs/04_editor/
+      url: /editor/
     - title: "Project Tree"
-      url: /docs/05_project_tree/
+      url: /project_tree/
     - title: "Main Menu"
-      url: /docs/06_main_menu/
+      url: /main_menu/
 
 
 use-cases-nav:
   - title: "Use Cases"
     children:
     - title: "Embedded Image"
-      url: /use_cases/embedded_image/
+      url: /embedded_image/
     - title: "Certificate"
-      url: /use_cases/certificate/
+      url: /certificate/
 
 
 

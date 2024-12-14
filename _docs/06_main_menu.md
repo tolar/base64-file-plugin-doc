@@ -3,6 +3,7 @@ title: Main Menu
 layout: single
 collection: docs
 weight: 6
+permalink: main_menu
 ---
 
 ## Remove All Links

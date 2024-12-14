@@ -3,6 +3,7 @@ title: Project Tree
 layout: single
 collection: docs
 weight: 5
+permalink: project_tree
 ---
 
 ## Encode File
