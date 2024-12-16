@@ -7,6 +7,24 @@ weight: 3
 permalink: /changelog
 ---
 
+## Version 1.1.4 (Dec 16, 2024)
+
+### Fixed
+
+- Fixed NullPointerException in model service class.
+
+## Version 1.1.3 (Dec 16, 2024)
+
+### Fixed
+
+- Fixed the persistence of the plugin state #2.
+
+## Version 1.1.2 (Dec 15, 2024)
+
+### Fixed
+
+- Fixed the persistence of the plugin state #1.
+- 
 ## Version 1.1.1 (Dec 14, 2024)
 
 ### Fixed
