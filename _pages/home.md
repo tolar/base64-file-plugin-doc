@@ -15,7 +15,7 @@ A unique plugin for [IntelliJ IDEA](https://www.jetbrains.com/idea/) supporting 
 
 ## Documentation
 
-Explore the plugin’s features and functions in our comprehensive [Documentation](docs/02_overview/).
+Explore the plugin’s features and functions in our comprehensive [Documentation](/documentation).
 
 ## Availability
 
