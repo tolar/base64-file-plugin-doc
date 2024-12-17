@@ -7,6 +7,18 @@ weight: 3
 permalink: /changelog
 ---
 
+## Version 1.1.6 (Dec 16, 2024)
+
+### Fixed
+
+- Plugin description updated.
+
+## Version 1.1.5 (Dec 16, 2024)
+
+### Fixed
+
+- Plugin description updated.
+
 ## Version 1.1.4 (Dec 16, 2024)
 
 ### Fixed

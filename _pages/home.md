@@ -17,11 +17,16 @@ A unique plugin for [IntelliJ IDEA](https://www.jetbrains.com/idea/) supporting 
 
 Explore the plugin’s features and functions in our comprehensive [Documentation](/documentation).
 
+## Bug Tracker
+
+Please don't hesitate to report any bugs you encounter here: [Bug Tracker](https://github.com/base64file/Base64File/issues).
+We will address them as quickly as possible. Flawless plugin performance is our priority.
+
 ## Availability
 
 The plugin is scheduled to be available for download on the [Marketplace](https://plugins.jetbrains.com/) in the first quarter of 2025.
 
-Want early access? Join our beta testing program by emailing us at [info@base64file.com](mailto:info@base64file.com).
+Want early access to new versions? Join our beta testing program by emailing us at [info@base64file.com](mailto:info@base64file.com).
 
 [//]: # (<a href="/docs/01_install/" class="btn btn--primary btn--large">Get started</a>)
 
