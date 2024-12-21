@@ -7,6 +7,18 @@ weight: 3
 permalink: /changelog
 ---
 
+## Version 1.1.7 (Dec 20, 2024)
+
+### Fixed
+
+- Fixed incorrect status bar updates when switching between file tabs in the editor.
+
+## Version 1.1.6 (Dec 16, 2024)
+
+### Fixed
+
+- Plugin description updated.
+
 ## Version 1.1.6 (Dec 16, 2024)
 
 ### Fixed
