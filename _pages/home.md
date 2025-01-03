@@ -4,7 +4,7 @@ layout: single
 permalink: /
 ---
 
-A unique plugin for [IntelliJ IDEA](https://www.jetbrains.com/idea/) supporting work with Base64 encoded files in IDE
+A unique plugin for [JetBrains IDEs](https://www.jetbrains.com/ides/) supporting work with Base64 encoded files in IDE
 
 <div id="install"></div>
 <script src="https://plugins.jetbrains.com/assets/scripts/mp-widget.js"></script>

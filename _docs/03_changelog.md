@@ -7,6 +7,13 @@ weight: 3
 permalink: /changelog
 ---
 
+## Version 1.2.0 (Jan 03, 2025)
+
+### Added
+
+- Support for URL encoding scheme.
+- Review Request Dialog: A gentle prompt encouraging users to leave a review on JetBrains Marketplace.
+
 ## Version 1.1.7 (Dec 20, 2024)
 
 ### Fixed
