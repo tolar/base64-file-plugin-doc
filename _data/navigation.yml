@@ -11,29 +11,33 @@ main:
 doc-nav:
   - title: "Get Started"
     children:
-    - title: "Install"
-      url: /install
-    - title: "Overview"
-      url: /documentation
-    - title: "Changelog"
-      url: /changelog
+      - title: "Install"
+        url: /install
+      - title: "Overview"
+        url: /documentation
+      - title: "Changelog"
+        url: /changelog
   - title: "Functions"
     children:
-    - title: "Editor"
-      url: /editor
-    - title: "Project Tree"
-      url: /project_tree
-    - title: "Main Menu"
-      url: /main_menu
+      - title: "Editor"
+        url: /editor
+      - title: "Project Tree"
+        url: /project_tree
+      - title: "Main Menu"
+        url: /main_menu
+  - title: "Concepts"
+    children:
+      - title: "Encoding Schemes"
+        url: /encoding_schemes
 
 
 use-cases-nav:
   - title: "Use Cases"
     children:
-    - title: "Embedded Image"
-      url: /embedded_image
-    - title: "Certificate"
-      url: /certificate
+      - title: "Embedded Image"
+        url: /embedded_image
+      - title: "Certificate"
+        url: /certificate
 
 
 

@@ -43,7 +43,7 @@ value are available.
 | Remove Link to Encoded File at Caret (Keeping Encoded Value)  | The action removes the link between the encoded file value at the caret and its source file. The encoded value in the editor remains unchanged.                        |
 | Remove Link to Encoded File at Caret (Deleting Encoded Value) | This action removes the link between the encoded file value at the caret and its source file. The encoded value will also be removed from the file open in the editor. |
 | Navigate to Encoded File at Caret                             | The action causes the file encoded at the caret position to be selected in the project view.                                                                           |
-| Convert Encoding Scheme                                       | The action converts the current encoding scheme from/to MIME/BASIC.                                                                                                    |
+| Change Encoding Scheme                                        | The action converts the current encoding scheme from/to MIME/BASIC/URL. For more details on the encoding formats, see [Encoding Schemes](/encoding_schemes)            |
 
 ## File Change Notification
 
