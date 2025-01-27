@@ -7,6 +7,17 @@ weight: 3
 permalink: /changelog
 ---
 
+## Version 1.3.0 (Jan 22, 2025)
+
+### Added
+
+- Added support for inserting encoded files as Data URIs, enabling enhanced embedding and file portability.
+
+### Fixed
+
+- Ensured only one file is selected in the Project Tree before enabling the action for encoding.
+- Implemented a round-trip validation for encoding and inserting files through the Project Tree action.
+
 ## Version 1.2.0 (Jan 03, 2025)
 
 ### Added
