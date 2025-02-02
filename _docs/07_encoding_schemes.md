@@ -13,7 +13,7 @@ and [RFC 2045](https://www.ietf.org/rfc/rfc2045.txt).
 
 By default, the plugin uses the MIME scheme for encoding and decoding files. 
 Users can change the encoding scheme of an encoded file through the appropriate action in the editor's popup menu. 
-See [Encoded File Actions](http://127.0.0.1:4000/editor#encoded-file-actions) for details.
+See [Encoded File Actions](/editor#encoded-file-actions) for details.
 
 | Scheme | Definition                                                                                                                                                  | Key Characteristics                                                                                                                                                                                                                                                                                                                                                    |
 |--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
