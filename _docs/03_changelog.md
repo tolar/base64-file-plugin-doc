@@ -7,6 +7,16 @@ weight: 3
 permalink: /changelog
 ---
 
+## Version 2.0.0
+
+### Added
+
+- Support for IntellijPlatform version 25.1
+
+### Fixed
+
+- Resolved an issue with the file chooser dialog in IntellijPlatform 25.1
+
 ## Version 1.3.0 (Jan 22, 2025)
 
 ### Added
