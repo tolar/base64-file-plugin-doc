@@ -6,7 +6,9 @@ weight: 2
 permalink: /documentation
 ---
 
-Base64 File plugin supports work with Base64 encoded files in IntellijIDEA.
+Base64 File plugin supports work with Base64 encoded files in JetBrains IDEs like [Android Studio](https://developer.android.com/studio), 
+[PyCharm](https://www.jetbrains.com/pycharm/), [IntellijIDEA](https://www.jetbrains.com/idea/), [PhpStorm](https://www.jetbrains.com/phpstorm/), 
+[WebStorm](https://www.jetbrains.com/webstorm/) and others.
 
 ## Function Overview
 
@@ -23,13 +25,13 @@ The action group `Base64 File` is part of following menus:
 
 ## Editor
 
-There is an action for inserting encoded file to file currently open in editor.
+There are two actions for inserting encoded file to file currently open in editor.
 
-![]({{ site.baseurl }}/assets/images/screenshot/editor/action_insert_encoded_file.svg){: style="width: auto; height: 40px;" }
+![]({{ site.baseurl }}/assets/images/screenshot/editor/actions_insert_encoded_file.svg)
 
 There are actions for managing encoded files.
 
-![]({{ site.baseurl }}/assets/images/screenshot/editor/actions_encoded_file.svg){: style="width: auto; height: 90px;" }
+![]({{ site.baseurl }}/assets/images/screenshot/editor/actions_encoded_file.svg)
 
 And there is an action for decoding selected text to file.
 
@@ -37,7 +39,7 @@ And there is an action for decoding selected text to file.
 
 Encoded files are visually marked in the editor with highlighting, and a label displaying the name of the encoded file.
 
-![]({{ site.baseurl }}/assets/images/screenshot/editor/encoded_file_visual_representation.svg){: style="width: auto; height: auto;" }
+![]({{ site.baseurl }}/assets/images/screenshot/editor/encoded_file_visual_representation.svg)
 
 Learn more about [Editor Functions](/editor)
 
@@ -48,7 +50,7 @@ visually displayed in the project tree.
 
 ![]({{ site.baseurl }}/assets/images/screenshot/project_tree/project_tree_links.svg){: style="width: auto; height: auto;" }
 
-There is an action to encode and insert the selected file from the tree into the file currently open in editor at the caret position.
+There are two actions to encode and insert the selected file from the tree into the file currently open in editor at the caret position.
 
 ![]({{ site.baseurl }}/assets/images/screenshot/project_tree/action_encode_file_and_insert_at_caret.svg){: style="width: auto; height: auto;" }
 

@@ -23,6 +23,8 @@ plugins:
 
 include: [ "_pages", "_docs" ]
 
+future: true
+
 collections:
   docs:
     output: true

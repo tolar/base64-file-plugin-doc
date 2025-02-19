@@ -13,11 +13,17 @@ menu.
 
 {% include figure popup=true image_path="/assets/images/screenshot/editor/editor_overview_insert_action.png" %}
 
-### Insert Encoded File Action
+There are two options:
 
-| Action              | Decription                                                                                                                                                                                                                            |
-|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Insert Encoded File | The action invokes a file selection dialog where the user can select a file from within the current project. The selected file is Base64 encoded (using the MIME scheme by default) and inserted at the caret position in the editor. |
+* Inserting plain encoded value
+* Inserting encoded value decorated as Data URI
+
+### Insert Encoded File Actions
+
+| Action                          | Decription                                                                                                                                                                                                                                                                                               |
+|---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Insert Encoded File             | The action invokes a file selection dialog where the user can select a file from within the current project. The selected file is Base64 encoded (using the MIME scheme by default) and inserted at the caret position in the editor.                                                                    |
+| Insert Encoded File as Data URI | The action invokes a file selection dialog where the user can select a file from within the current project. The selected file is Base64 encoded (using the MIME scheme by default) and inserted at the caret position in the editor as follows: `data:<detected mime type>;base64,<encode file itself>` |
 
 ## Encoded File Representation
 

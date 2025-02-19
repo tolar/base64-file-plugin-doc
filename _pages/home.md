@@ -12,6 +12,11 @@ A unique plugin for [JetBrains IDEs](https://www.jetbrains.com/ides/) supporting
   MarketplaceWidget.setupMarketplaceWidget('install', 25896, "#install");
 </script>
 
+## 🚀 Important Change
+
+The **Base64 File** plugin is transitioning to a paid model.  
+Learn more in our [announcement post](/news/2025/02/21/two-months-on-marketplace.html).
+
 <br/>
 
 <video width="650" height="auto" controls preload="auto" autoplay="autoplay">
