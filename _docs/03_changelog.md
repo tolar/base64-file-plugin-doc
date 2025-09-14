@@ -7,6 +7,32 @@ weight: 3
 permalink: /changelog
 ---
 
+## Version 3.0.0 (Sep 01, 2025)
+
+### Added
+
+- Support for IntelliJ Platform 2025.2
+
+### Fixed
+
+- Status bar label was not displayed when the caret was on an inlined file
+
+## Version 2.1.0 (Mar 04, 2025)
+
+### Changed
+
+- Introduced a paid model to support ongoing maintenance and future development. Free versions are still available.
+
+## Version 2.0.1 (Feb 19, 2025)
+
+### Added
+
+- Added a note in the plugin description about the transition to a paid model.
+
+### Fixed
+
+- Improved readability of the editor context menu by adding separators between action groups.
+
 ## Version 2.0.0 (Feb 04, 2025)
 
 ### Added
