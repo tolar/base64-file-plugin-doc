@@ -7,6 +7,16 @@ weight: 3
 permalink: /changelog
 ---
 
+## Version 4.0.0 (Mon DD, YYYY)
+
+### Added
+
+- Support for IntelliJ Platform 2025.3
+
+### Changed
+
+- Status bar reimplemented using the new API
+
 ## Version 3.0.0 (Sep 01, 2025)
 
 ### Added

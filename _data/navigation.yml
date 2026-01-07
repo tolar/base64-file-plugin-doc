@@ -29,7 +29,8 @@ doc-nav:
     children:
       - title: "Encoding Schemes"
         url: /encoding_schemes
-
+      - title: "Versioning"
+        url: /versioning
 
 use-cases-nav:
   - title: "Use Cases"
