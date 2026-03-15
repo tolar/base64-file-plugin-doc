@@ -1,5 +1,5 @@
-title: Base64 File Plugin
-description: Documentation for Base64 File Plugin for IntellijIDEA
+title: Base64 File Plugin - View, Edit & Encode Base64 Files
+description: Professional base64 file plugin for JetBrains IDEs. View, edit, encode and decode base64 files directly in your IDE. Support for base64 encoded files in IntelliJ IDEA, PyCharm, WebStorm and more.
 url: "https://base64file.com" # Your website URL
 baseurl: ""  # Set this to an empty string for custom domains
 author:
