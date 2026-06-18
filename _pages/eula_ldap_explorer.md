@@ -1,10 +1,15 @@
 ---
-title: End User License Agreement of Base64 File Plugin ("EULA")
-layout: single
-permalink: /eula/
+title: End User License Agreement of LDAP Explorer Plugin ("EULA")
+layout: splash
+permalink: /eula_ldap_explorer/
+classes: no-masthead
 ---
 
-**“Developer”** means the author of Base64 File Plugin: Václav Tolar, Pod Lomem 726, Velké Přílepy, Czech Republic.
+<br>
+
+# End User License Agreement of LDAP Explorer Plugin ("EULA")
+
+**“Developer”** means the author of LDAP Explorer Plugin: Václav Tolar, Pod Lomem 726, Velké Přílepy, Czech Republic.
 
 **“JetBrains”** means JetBrains s.r.o. with its registered office at Na Hřebenech II 1718/10, Prague, 14000, Czech Republic, registered with the Commercial Register kept by the Municipal Court of Prague, Section C, file 86211, ID.Nr.: 265 02 275.
 
