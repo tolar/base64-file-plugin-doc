@@ -7,7 +7,13 @@ weight: 3
 permalink: /changelog
 ---
 
-## Version 4.0.0 (Mon DD, YYYY)
+## Version 5.0.0 (Mar 30, 2026)
+
+### Added
+
+- Support for IntelliJ Platform 2026.1
+
+## Version 4.0.0 (Dec 25, 2025)
 
 ### Added
 

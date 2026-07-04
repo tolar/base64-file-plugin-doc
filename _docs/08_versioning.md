@@ -29,6 +29,7 @@ Each MAJOR plugin version corresponds to a specific range of supported IntelliJ 
 | 2023.1 - 2025.1            | 2.x.x           |
 | 2023.1 - 2025.2            | 3.x.x           |
 | 2023.1 - 2025.3            | 4.x.x           |
+| 2023.1 - 2026.1            | 5.x.x           |
 
 
 
