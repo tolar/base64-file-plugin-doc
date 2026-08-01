@@ -4,7 +4,8 @@ layout: single
 permalink: /
 ---
 
-A unique plugin for [JetBrains IDEs](https://www.jetbrains.com/ides/) supporting work with Base64 encoded files in IDE
+Edit Base64-encoded images, PDFs and other files directly inside your [JetBrains IDE](https://www.jetbrains.com/ides/). No external tools. No copy & paste.
+
 ## Features
 - Base64 encoding of project files to other project files
 - Support for multiple encoded files in a single file
