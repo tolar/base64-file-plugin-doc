@@ -6,6 +6,12 @@ permalink: /
 
 Edit Base64-encoded images, PDFs and other files directly inside your [JetBrains IDE](https://www.jetbrains.com/ides/). No external tools. No copy & paste.
 
+<div id="install"></div>
+<script src="https://plugins.jetbrains.com/assets/scripts/mp-widget.js"></script>
+<script>
+  MarketplaceWidget.setupMarketplaceWidget('install', 25896, "#install");
+</script>
+
 ## Features
 - Base64 encoding of project files to other project files
 - Support for multiple encoded files in a single file
@@ -31,11 +37,7 @@ Please don't hesitate to report any bugs you encounter
 here: [Bug Tracker](https://github.com/base64file/Base64File/issues).
 We will address them as quickly as possible. Flawless plugin performance is our priority.
 
-<div id="install"></div>
-<script src="https://plugins.jetbrains.com/assets/scripts/mp-widget.js"></script>
-<script>
-  MarketplaceWidget.setupMarketplaceWidget('install', 25896, "#install");
-</script>
+
 
 
 
